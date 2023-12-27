@@ -1,0 +1,6 @@
+*.env
+*env
+*.note.sql
+*.env
+
+public/pdf
